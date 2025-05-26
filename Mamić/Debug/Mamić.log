@@ -1,0 +1,9 @@
+﻿  main.c
+  projekt.c
+C:\Users\student\source\repos\Mamić\projekt.c(46,16): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\student\source\repos\Mamić\projekt.c(108,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\student\source\repos\Mamić\projekt.c(130,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\student\source\repos\Mamić\projekt.c(141,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\student\source\repos\Mamić\projekt.c(220,12): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+  Generating Code...
+  Mamić.vcxproj -> C:\Users\student\source\repos\Mamić\Debug\Mamić.exe

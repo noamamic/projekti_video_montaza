@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mamić", "Mamić.vcxproj", "{8D3B6312-C5A1-4DCD-A47D-AF8E093F04F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D3B6312-C5A1-4DCD-A47D-AF8E093F04F2}.Debug|x64.ActiveCfg = Debug|x64
+		{8D3B6312-C5A1-4DCD-A47D-AF8E093F04F2}.Debug|x64.Build.0 = Debug|x64
+		{8D3B6312-C5A1-4DCD-A47D-AF8E093F04F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D3B6312-C5A1-4DCD-A47D-AF8E093F04F2}.Debug|x86.Build.0 = Debug|Win32
+		{8D3B6312-C5A1-4DCD-A47D-AF8E093F04F2}.Release|x64.ActiveCfg = Release|x64
+		{8D3B6312-C5A1-4DCD-A47D-AF8E093F04F2}.Release|x64.Build.0 = Release|x64
+		{8D3B6312-C5A1-4DCD-A47D-AF8E093F04F2}.Release|x86.ActiveCfg = Release|Win32
+		{8D3B6312-C5A1-4DCD-A47D-AF8E093F04F2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E695A6-70C3-447D-899D-A376A2EE26BD}
+	EndGlobalSection
+EndGlobal
