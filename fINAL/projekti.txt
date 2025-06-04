@@ -1,0 +1,22 @@
+--- Eksportirani projekti ---
+File name: mamic
+Naziv projekta: Ide gas
+Ime autora: noa
+Datum: 020202
+Broj klipova u timelineu: 2
+Ukupno trajanje: 1202s
+
+File name: 5
+Naziv projekta: 5
+Ime autora: 5
+Datum: 5
+Broj klipova u timelineu: 5
+Ukupno trajanje: 5s
+
+File name: noa
+Naziv projekta: noa
+Ime autora: noa
+Datum: noa
+Broj klipova u timelineu: -858993460
+Ukupno trajanje: -107374176s
+
